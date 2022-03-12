@@ -1,5 +1,5 @@
-# Introduction
-- 👋 Hi, I’m @country-toad
+# Heya!
+- 👋 I'm country-toad
 - 🐈 I have two adorable cats
 - 🌱 I’m currently learning web development on TOP
 
